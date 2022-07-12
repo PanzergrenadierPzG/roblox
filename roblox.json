@@ -6,9 +6,9 @@
 			"Panzer IV",
 			"STuG III",
 			"M1 Abrams",
-			"T-54 Main Battle Tank",
-			"BT-7 Light Tank",
-			"M4 Sherman Medium Tank",
+			"T-54",
+			"BT-7",
+			"M4 Sherman",
 			"KV-2",
 			"T-14 Armata",
 			"BTR-70"
@@ -26,6 +26,7 @@
 			"AK74",
 			"HK416",
 			"Springfield M1903",
+			"AK47",
 			"M1 Garand",
 			"M1 Carbine",
 			"Fedorov Avtomat",
@@ -51,7 +52,35 @@
 			"Carl Gustaf Emil Mannerheim",
 			"Erwin Rommel",
 			"Arthur Wellesley",
-            "Alexander Suvorov"
+			"Alexander Suvorov"
+		]
+	},
+	"countries": {
+		"name": "Countries",
+		"words": [
+			"United States",
+			"China",
+			"Russia",
+			"Soviet Union",
+			"North Korea",
+			"South Korea",
+			"Japan",
+			"United Kingdom",
+			"Germany",
+			"Italy",
+			"France",
+			"Poland",
+			"Ukraine",
+			"Lithuania",
+			"Mongolia",
+			"Taiwan",
+			"Kazakhstan",
+			"Afghanistan",
+			"Iraq",
+			"Iran",
+			"Estonia",
+			"Mexico",
+			"Canada"
 		]
 	}
 }
