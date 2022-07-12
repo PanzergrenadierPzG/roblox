@@ -18,8 +18,8 @@
 		]
 
 	},
-    "guns": {
-        "name": "Guns",
+    "weapons": {
+        "name": "Weapons",
         "words": [
 			"M4 Carbine",
 			"M16A4",
