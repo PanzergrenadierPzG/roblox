@@ -11,12 +11,15 @@
 			"M4 Sherman",
 			"KV-2",
 			"T-14 Armata",
-			"BTR-70"
+			"BTR-70",
+			"Tiger I",
+			"Tiger II",
+			"Panther"
 		]
 
 	},
-    "rifles": {
-        "name": "Rifles",
+    "guns": {
+        "name": "Guns",
         "words": [
 			"M4 Carbine",
 			"M16A4",
@@ -32,7 +35,20 @@
 			"Fedorov Avtomat",
 			"Sturmgewehr",
 			"Karabiner 98k",
-			"AK12"
+			"AK12",
+			"Makarov PM",
+			"Luger P08",
+			"M1911",
+			"Beretta M9",
+			"Grenade",
+			"Bayonet",
+			"Knife",
+			"Sword",
+			"Sabre",
+			"Spear",
+			"Benelli M4",
+			"SVT40",
+			"VSS Vintorez"
         ]
 	},
     "leaders": {
@@ -43,7 +59,6 @@
 			"Kliment Voroshilov",
 			"Vyacheslav Molotov",
 			"Nikita Krushchev",
-			"George Patton",
 			"George Washington",
 			"Abraham Lincoln",
 			"Benito Mussolini",
@@ -61,7 +76,6 @@
 			"United States",
 			"China",
 			"Russia",
-			"Soviet Union",
 			"North Korea",
 			"South Korea",
 			"Japan",
@@ -88,7 +102,21 @@
 			"Ireland",
 			"Belarus",
 			"Australia",
+			"Serbia",
+			"Croatia",
 			"New Zealand"
 		]
-	}
+	},
+	"oldcountries": {
+		"name": "Former Countries",
+		"words": [
+			"Soviet Union",
+			"Russian Empire",
+			"Roman Empire",
+			"British Empire",
+			"Yugoslavia",
+			"Ottoman Empire",
+			"Persia"
+		]
+	}	
 }
