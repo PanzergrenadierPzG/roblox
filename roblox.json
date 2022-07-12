@@ -25,7 +25,7 @@
 			"AKM",
 			"AK74",
 			"HK416",
-			"Springfield M1903",
+			"AR15",
 			"AK47",
 			"M1 Garand",
 			"M1 Carbine",
@@ -80,7 +80,8 @@
 			"Iran",
 			"Estonia",
 			"Mexico",
-			"Canada"
+			"Canada",
+			"Brazil"
 		]
 	}
 }
