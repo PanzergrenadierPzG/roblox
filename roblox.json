@@ -1,0 +1,57 @@
+{
+	"armored": {
+		"name": "Armored Vehicles",
+		"words": [
+			"T-34 Medium Tank",
+			"Panzer IV",
+			"STuG III",
+			"M1 Abrams",
+			"T-54 Main Battle Tank",
+			"BT-7 Light Tank",
+			"M4 Sherman Medium Tank",
+			"KV-2",
+			"T-14 Armata",
+			"BTR-70"
+		]
+
+	},
+    "rifles": {
+        "name": "Rifles",
+        "words": [
+			"M4 Carbine",
+			"M16A4",
+			"Mosin-Nagant",
+			"G36C",
+			"AKM",
+			"AK74",
+			"HK416",
+			"Springfield M1903",
+			"M1 Garand",
+			"M1 Carbine",
+			"Fedorov Avtomat",
+			"Sturmgewehr",
+			"Karabiner 98k",
+			"AK12"
+        ]
+	},
+    "leaders": {
+        "name": "Famous Leaders",
+        "words": [
+			"Georgy Zhukov",
+			"Vladimir Lenin",
+			"Kliment Voroshilov",
+			"Vyacheslav Molotov",
+			"Nikita Krushchev",
+			"George Patton",
+			"George Washington",
+			"Abraham Lincoln",
+			"Benito Mussolini",
+			"Nicholas II",
+			"Elizabeth II",
+			"Carl Gustaf Emil Mannerheim",
+			"Erwin Rommel",
+			"Arthur Wellesley",
+            "Alexander Suvorov"
+		]
+	}
+}
