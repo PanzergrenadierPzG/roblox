@@ -120,5 +120,30 @@
 			"Polish-Lithuanian Commonwealth",
 			"Prussia"
 		]
-	}	
+	},
+	"ranks": {
+		"name": "Ranks",
+		"words": [
+			"Private",
+			"Private First Class",
+			"Lance Corporal",
+			"Corporal",
+			"Sergeant",
+			"Staff Sergeant",
+			"Sergeant First Class",
+			"Sergeant Major",
+			"Senior Sergeant",
+			"Warrant Officer",
+			"Second Lieutenant",
+			"First Lieutenant",
+			"Captain",
+			"Major",
+			"Lieutenant Colonel",
+			"Colonel",
+			"Brigadier General",
+			"Major General",
+			"Lieutenant General",
+			"General"
+		]
+	}
 }
